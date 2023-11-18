@@ -1,0 +1,23 @@
+.container {
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+}
+#img1 {
+  border: 2px solid transparent;
+  transition: border-color 0.3s;
+  border-radius: 10%;
+  width: 400px;
+}
+.cantidad {
+  width: 30%;
+}
+.btn {
+  text-align: center;
+}
+.stickers {
+  text-align: center;
+}
+button {
+  width: 100px;
+}
